@@ -20,7 +20,7 @@ narrator: US English Female
 
 # Warum digitale Forschungswerkstätten?
 
-Philosophisches Denken vollzieht sich nicht im luftleeren Raum. Es entsteht im Gespräch, im gemeinsamen Fragen und in der Auseinandersetzung mit Quellen, Menschen und unterschiedlichen Perspektiven. Wo historische Brüche, Exil oder gesellschaftliche Ausgrenzung Stimmen aus dem wissenschaftlichen Gedächtnis verdrängt haben, beginnt Forschung auch mit der Aufgabe, diese Stimmen wieder sichtbar und hörbar zu machen.
+Denken vollzieht sich nicht im luftleeren Raum. Es entsteht im Gespräch, im gemeinsamen Fragen und in der Auseinandersetzung mit Quellen, Menschen und unterschiedlichen Perspektiven. Wo historische Brüche, Exil oder gesellschaftliche Ausgrenzung Stimmen aus dem wissenschaftlichen Gedächtnis verdrängt haben, beginnt Forschung auch mit der Aufgabe, diese Stimmen wieder sichtbar und hörbar zu machen.
 
 Eine digitale Forschungswerkstatt verstehen wir deshalb nicht als bloße Sammlung digitaler Werkzeuge. Sie ist ein Raum gemeinsamen Forschens, in dem Erkenntnis Schritt für Schritt entsteht – im Fragen, Suchen, Erproben, Verwerfen und Weiterdenken. Studierende werden dabei nicht nur zu Lernenden, sondern zu Mitforschenden: Sie recherchieren, transkribieren, annotieren, modellieren, visualisieren und veröffentlichen ihre Ergebnisse. Digitale Methoden eröffnen neue Möglichkeiten, Quellen zu erschließen, Zusammenhänge sichtbar zu machen und Forschung zugänglich zu halten.
 
@@ -370,7 +370,7 @@ In welchen Verhältnissen stehen die Elemente zueinander?
 
 ## Sammeln 
 
- ![Sammeln Symbolbild](Images/nathalia-segato-V9qc-JVKIBo-unsplash.jpg "Nathalia Segato auf Unsplah") 
+ ![Sammeln Symbolbild](Images/nathalia-segato-V9qc-JVKIBo-unsplash.jpg "Nathalia Segato auf Unsplah") [Hier](https://github.com/DH-Lehre/Literatur/blob/main/literaturliste.md) finden Sie eine kleine Zusammenstellung einer Auswahl bisher in diesem Projekt verwendeter Literatur. :-)
 
 > - Verantwortungsvolle Auswahl der Datenbanken und Archivalien: Welche Unsichtbarkeiten werden eventuell reproduziert und wie lässt sich das verhindern?
 > - Breites und offenes Blickfeld
