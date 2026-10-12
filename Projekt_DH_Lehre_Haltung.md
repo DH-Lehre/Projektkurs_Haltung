@@ -1,20 +1,20 @@
 <!--
-author:   Aina-Jula Stehr
+author:   Aina-Jula Stehr, Gregor Große-Bölting
 
-email:    stu223341@mail.uni-kiel.de
+email:    stu223341@mail.uni-kiel.de, ggb@informatik.uni-kiel.de
 
-version:  0.0.1
+version:  0.0.2
 
-language: en
+language: de
 
-narrator: US English Female
+narrator: Deutsch Female
 
 -->
 
 # Haltung (auf-)zeigen: Ein interdisziplinäres Lehrprojekt
 
 ![Offene Tür](/Images/jan-tinneberg-tVIv23vcuz4-unsplash.jpg "Foto von Jan Tinneberg auf Unsplash") Moin. :-) Dieser Kurs dient als überblickgebende Führung durch die Forschungsmethoden, -tools und -ergebnisse eines interdisziplinären DH-Lehrprojekts der CAU Kiel, welches in Form von interaktiven **digitalen Forschungswerkstätten** umgesetzt wird. 
-**HINWEIS**: Die Links zu einzelnen Kursen leiten Sie jeweils zu dem entsprechenden GitHub Repository weiter. Um sich den Kurs formatiert in LiaScript anzeigen zu lassen, kopieren Sie die Markdown-URL [hier](https://liascript.github.io/) in das vorgesehene Feld.
+**HINWEIS**: Die Links zu einzelnen Kursen leiten Sie jeweils zu dem entsprechenden GitHub-Repository weiter. Um sich den Kurs formatiert in LiaScript anzeigen zu lassen, kopieren Sie die Markdown-URL [hier](https://liascript.github.io/) in das vorgesehene Feld.
 
 <img src="Images/Haltung_Projektplakat.png" alt="Projektplakat" width="80%"> 
 
@@ -30,7 +30,7 @@ Haltung bezeichnet dabei keinen feststehenden Standpunkt. Sie entsteht im Vollzu
 
 Dies gilt in besonderer Weise für die Zusammenarbeit von Geschichte, Philosophie und Informatik. Unterschiedliche fachliche Zugänge, Begriffe und Methoden treffen aufeinander, ohne in einer gemeinsamen Sprache aufzugehen. Gerade diese Differenz kann produktiv werden: im Austausch, in der Irritation, im gegenseitigen Fragen und in der Bereitschaft, die eigene Perspektive verändern zu lassen, ohne sie aufzugeben. Interdisziplinäres Forschen wird so zu einer Praxis des Gesprächs.
 
-![Drei Farben](/Images/paolo-chiabrando-vlKE9HXX9BA-unsplash.jpg "Foto von Paolo Chiabrandauf Unsplash")
+![Drei Farben](/Images/paolo-chiabrando-vlKE9HXX9BA-unsplash.jpg "Foto von Paolo Chiabrando auf Unsplash")
 
 ![Begegnung](/Images/andjela-kalinovic-UBAmGmIH7Yw-unsplash.jpg "Foto von Andjela Kalinovic auf Unsplash")
 Die digitalen Werkzeuge unterstützen diesen Prozess, indem sie gemeinsames Arbeiten ermöglichen, Entscheidungen dokumentierbar machen und Forschung über den konkreten Entstehungsmoment hinaus zugänglich und anschlussfähig halten. Aus dem gemeinsamen Arbeiten entstehen dabei nicht nur Forschungsergebnisse, sondern auch fachübergreifend nutzbare Lehrmaterialien und Open Educational Resources. 
@@ -39,7 +39,7 @@ Die digitale Forschungswerkstatt ist damit ein Zwischenraum: zwischen Personen, 
 
 # Haltung im Forschungsprozess
 
-![Bezüglichkeit](/Images/lilartsy-1KkhQ8uL28g-unsplash.jpg "Foto von Lilartsy auf Unsplash") Forschung beginnt nicht erst mit dem Ergebnis. Sie beginnt dort, wo wir fragen, auswählen und uns zu etwas ins Verhältnis setzen. Jede Entscheidung im Forschungsprozess – von der Formulierung einer Frage über den Umgang mit Quellen und Daten bis hin zu ihrer Interpretation und Veröffentlichung – trägt eine Haltung in sich. Haltung zeigt sich deshalb in der Weise, wie wir forschen: In unserer Aufmerksamkeit für das, was sichtbar und unsichtbar bleibt, in der Sorgfalt unseres Umgangs mit Quellen, in der Reflexion der eigenen Perspektive und in der Bereitschaft, das eigene Verständnis im Gespräch mit anderen zu verändern. Sie bedeutet, Verantwortung für das eigene wissenschaftliche Handeln zu übernehmen, ohne den Forschungsprozess vorschnell abzuschließen.
+![Bezüglichkeit](/Images/lilartsy-1KkhQ8uL28g-unsplash.jpg "Foto von Lilartsy auf Unsplash") Forschung beginnt nicht erst mit dem Ergebnis. Sie beginnt dort, wo wir fragen, auswählen und uns zu etwas ins Verhältnis setzen. Jede Entscheidung im Forschungsprozess – von der Formulierung einer Frage über den Umgang mit Quellen und Daten bis hin zu ihrer Interpretation und Veröffentlichung – trägt eine Haltung in sich. Haltung zeigt sich deshalb in der Weise, wie wir forschen: in unserer Aufmerksamkeit für das, was sichtbar und unsichtbar bleibt, in der Sorgfalt unseres Umgangs mit Quellen, in der Reflexion der eigenen Perspektive und in der Bereitschaft, das eigene Verständnis im Gespräch mit anderen zu verändern. Sie bedeutet, Verantwortung für das eigene wissenschaftliche Handeln zu übernehmen, ohne den Forschungsprozess vorschnell abzuschließen.
 Digitale Methoden machen diese Dimension besonders deutlich. Sie eröffnen neue Möglichkeiten des kollaborativen Forschens, der Transparenz und der Nachnutzung – und verlangen zugleich, die Entscheidungen hinter Daten, Modellen und Werkzeugen kritisch mitzudenken. Technische Praxis und wissenschaftliche Haltung sind daher keine Gegensätze: Die Art, wie wir mit digitalen Verfahren arbeiten, prägt mit, was sichtbar, verstehbar und weiterführbar wird.
 
 Der Forschungsdatenzyklus bildet den methodischen Rahmen dieses Kurses. Seine einzelnen Phasen verstehen wir nicht allein als Arbeitsschritte, sondern als unterschiedliche Situationen, in denen sich wissenschaftliche Haltung vollzieht: Fragen, sammeln, bewahren, auswerten, beschreiben, teilen und weiterdenken.
@@ -117,7 +117,7 @@ Linked Open Data (LOD) ist ein Konzept und eine Technologie, die darauf abzielt,
 
 **Wie funktioniert Linked Open Data?**
 
-- Datenmodellierung mit **RDF**: Daten werden als "Triple" dargestellt: Subjekt - Prädikat - Objekt.
+- Datenmodellierung mit **RDF**: Daten werden als "Tripel" dargestellt: Subjekt - Prädikat - Objekt.
 - **Ontologien** und **Vokabulare**: Um Daten besser zu strukturieren und zu standardisieren, verwendet LOD Ontologien (z. B. FOAF, Dublin Core). Diese definieren, wie Objekte und ihre Beziehungen beschrieben werden.
 - **Verlinkung** mit anderen Datenquellen: Die Daten sind nicht isoliert, sondern mit anderen Datensätzen verknüpft.
 
@@ -127,7 +127,7 @@ Linked Open Data (LOD) ist ein Konzept und eine Technologie, die darauf abzielt,
 - Wikidata: Eine zentrale Wissensdatenbank, die strukturierte und verknüpfte Daten über verschiedene Themen bereitstellt.
 - Europeana: Eine digitale Plattform für das kulturelle Erbe Europas, die Linked Open Data nutzt, um Museen, Bibliotheken und Archive miteinander zu verbinden.
 
-### Das Wichtigste zu LOD - Ergebnisse aus Seminarsitzung
+### Das Wichtigste zu LOD - Ergebnisse aus der Seminarsitzung
 
 >Dies sind die Sitzungsergebnisse zu LOD aus dem Seminar zu Philosophinnen im Exil (SoSe 24):
 
@@ -167,13 +167,13 @@ Turtle (Terse RDF Triple Language) ist ein kompaktes und lesbares Format zur Ser
 
 "Wenn alle Datensätze offen veröffentlicht würden und das gleiche Format zur Strukturierung der Informationen verwendeten, wäre es möglich, alle Datensätze gleichzeitig zu durchsuchen. Die Analyse riesiger Datenmengen ist potenziell viel leistungsfähiger, als wenn jeder seine eigenen individuellen Datensätze im Web nutzt, die als Informationssilos bekannt sind."
 
-Dies wurde mit einem Beispielsgraphen veranschaulicht, einer aus DBpedia generierten Übersicht von Exilphiloph:innen.
+Dies wurde mit einem Beispielgraphen veranschaulicht, einer aus DBpedia generierten Übersicht von Exilphilosoph:innen.
 
 ## FAIR-Prinzipien
 
 Die FAIR-Prinzipien (Findable, Accessible, Interoperable, Reusable) dienen als Leitprinzipien dafür, dass Daten langfristig und unabhängig zugänglich, nachnutzbar und nachprüfbar bleiben.
-Der Hauptunterschied zwischen den LOD- und den FAIR-Prinzipien liegt in der Accessibility, da im Vergleich zu den Linked Open Daten nicht alle Forschungsergebnisse zur Verfügung gestellt werden. Forschungsdaten (FDM) sollten generell so offen wie möglich sein.
-Während das Hauptziel der FAIR-Prinzipien in einer Erhöhung der Nachnutzbarkeit von Daten liegt, stellt der Fokus der LOD-Prinzipien die Zugänglichkeit der Daten dar.
+Der Hauptunterschied zwischen den LOD- und den FAIR-Prinzipien liegt in der Accessibility, da im Vergleich zu Linked Open Data nicht alle Forschungsergebnisse zur Verfügung gestellt werden. Forschungsdaten  sollten generell so offen wie möglich sein.
+Während das Hauptziel der FAIR-Prinzipien in einer Erhöhung der Nachnutzbarkeit von Daten liegt, liegt der Fokus der LOD-Prinzipien auf der Zugänglichkeit der Daten.
 
 >Ein entsprechendes LiaScript-Modul von Britta Petersen finden Sie [hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/RDM4CAU/lehre/main/Philo_DH-Sem_2024/FDM.md#1).
 
@@ -181,7 +181,7 @@ Während das Hauptziel der FAIR-Prinzipien in einer Erhöhung der Nachnutzbarkei
 
 ## Digitale Editionen
 
-![Editionen abstrakt](Images/dan-cristian-padure-Al7oCLVJB8g-unsplash.jpg "Foto von Dan Christian Padure auf Unsplash") Der digitale Editionsprozess stellt einen wesentlichen Teil der Projektseminare dar. Anders, als es vielleicht die erste Intuition verrät, ist eine digitale Edition mehr als ein gescannter Text – sie nutzt digitale Technologien, um Texte umfassender darzustellen, interaktiv nutzbar zu machen und wissenschaftlich auszuwerten.
+![Editionen abstrakt](Images/dan-cristian-padure-Al7oCLVJB8g-unsplash.jpg "Foto von Dan Cristian Padure auf Unsplash") Der digitale Editionsprozess stellt einen wesentlichen Teil der Projektseminare dar. Anders, als es vielleicht die erste Intuition verrät, ist eine digitale Edition mehr als ein gescannter Text – sie nutzt digitale Technologien, um Texte umfassender darzustellen, interaktiv nutzbar zu machen und wissenschaftlich auszuwerten.
 
 >Was eine Edition zu einer digitalen Edition macht, wurde im SoSe 2023 konkret in einem Kurs zur Digitalen Editionswissenschaft erarbeitet und in dem entsprechenden [LiaScript-Modul zur digitalen Editionswissenschaft](https://github.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft) dokumentiert.
 
@@ -212,7 +212,7 @@ Literaturempfehlungen:
 - *Kontext und Interpretierbarkeit*: Metadaten helfen, den Kontext der Daten zu verstehen: Wer hat die Daten erhoben? Wie wurden sie generiert? Welche Methoden wurden verwendet? Ohne Metadaten sind Daten oft unbrauchbar, da wichtige Informationen über ihre Entstehung fehlen.
 - *Interoperabilität und Austauschbarkeit*: Standardisierte Metadatenformate ermöglichen den Datenabgleich zwischen Systemen, Institutionen und Disziplinen. Dies erleichtert die Zusammenarbeit und ermöglicht das automatisierte Verarbeiten von Daten.
 - *Langfristige Archivierung und Reproduzierbarkeit*: Forschungsdaten müssen oft über Jahre oder Jahrzehnte aufbewahrt werden. Metadaten helfen, diese lesbar und interpretierbar zu halten, selbst wenn Technologien oder Formate sich ändern. Sie sind somit essenziell für die Reproduzierbarkeit wissenschaftlicher Ergebnisse.
-- *Zitierfähigkeit und wissenschaftliche Anerkennung*: Mit Metadaten können Datensätze als eigenständige Forschungsleistung veröffentlicht und zitiert werden, z.B. als Digital Object Identifier (DOI). Wissenschaftler:innen erhalten dadurch Anerkennung für ihre Daten und können ihre Forschung besser nachweisen.
+- *Zitierfähigkeit und wissenschaftliche Anerkennung*: Mit Metadaten können Datensätze als eigenständige Forschungsleistung veröffentlicht und zitiert werden, z. B. über einen Digital Object Identifier (DOI). Wissenschaftler:innen erhalten dadurch Anerkennung für ihre Daten und können ihre Forschung besser nachweisen.
 
 ### Metadatenstandards
 
@@ -264,7 +264,7 @@ Ein Beispiel hierfür findet sich [hier](https://liascript.github.io/course/?htt
 ### Creative Commons Lizenzen
 
 ![Weitergeben](/Images/nia-zera-bamSlNKVxJk-unsplash.jpg "Foto von Nia Zera auf Unsplash") Lizenzen sind essenziell für offene Wissenschaft, Rechtssicherheit und Nachnutzbarkeit von Forschungsdaten. Forschende sollten frühzeitig eine geeignete Lizenz wählen, um Transparenz, Reproduzierbarkeit und Anerkennung zu fördern.
-Für Beiträge zur LOD-Cloud und das Erstellen von Open Educational Resources (OER) eignen sich [Creative Commons (CC)](https://creativecommons.org/share-your-work/) besonders gut: Ein standardisiertes Lizenzsystem, welches es Urheber:innen ermöglicht, ihre Werke rechtssicher zu veröffentlichen und festzulegen, unter welchen Bedingungen sie genutzt werden dürfen.
+Für Beiträge zur LOD-Cloud und das Erstellen von Open Educational Resources (OER) eignen sich [Creative Commons (CC)](https://creativecommons.org/share-your-work/) besonders gut: ein standardisiertes Lizenzsystem, welches es Urheber:innen ermöglicht, ihre Werke rechtssicher zu veröffentlichen und festzulegen, unter welchen Bedingungen sie genutzt werden dürfen.
 CC-Lizenzen erleichtern die freie Verbreitung von Wissen, indem sie eine rechtlich klare Alternative zum "Alle Rechte vorbehalten"-Modell bieten.
 
 
@@ -283,12 +283,12 @@ CC-Lizenzen erleichtern die freie Verbreitung von Wissen, indem sie eine rechtli
 ![Format](/Images/samuel-sng-nm4t4E0UoYI-unsplash.jpg "Foto von Samuel Sng auf Unsplash") Die Arbeit in dem interdisziplinären Feld der Digital Humanities setzt nicht notwendigerweise ein ganzes Informatikstudium voraus. Doch zumindest der Umgang mit Technologien zur strukturierten Datenverarbeitung stellt eine wesentliche Grundlage des digitalen Forschungsdatenmanagements und des Einsatzes von DH-Tools in der digitalen Projektarbeit dar.
 So ist gerade die Arbeit mit **XML, RDF und TEI** auch entscheidend für die strukturierte digitale Erfassung, Analyse und Veröffentlichung von Frauenbiographien und findet als kleinerer interaktiver Theorieinput ebenfalls Eingang in die jeweiligen Projektseminare. 
 
->Zur Selbst-Überprüfung des eigenen Vorwissens zu XML dient das folgende Quiz. Bei Bedarf: In dem [Kus zur Digitalen Editionswissenschaft](https://github.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft/blob/main/main.md) findet sich eine kurze Einführung in die Grundlagen zu XML, TEI, XSLT und HTML. :-)
+>Zur Selbst-Überprüfung des eigenen Vorwissens zu XML dient das folgende Quiz. Bei Bedarf: In dem [Kurs zur Digitalen Editionswissenschaft](https://github.com/DH-Lehre/2023SoSe_Digitale-Editionswissenschaft/blob/main/main.md) findet sich eine kurze Einführung in die Grundlagen zu XML, TEI, XSLT und HTML. :-)
 >Ebenfalls als Einführung in die genannten Technologien eignet sich: Jannidis, F.; Kohle, H. & Rehbein, M. (Eds.): Digital Humanities. J.B. Metzler, 2017.
 
 <br>
 
-1. Warum müssen bestimmte Zeichen mit speziellen Zeichen enkodiert werden, bspw. '<' durch '<'?
+1. Warum müssen bestimmte Zeichen mit speziellen Zeichen enkodiert werden, bspw. `<` durch `&lt;`?
 2. Was ist der Unterschied zwischen *well formed* und *valid* in Bezug auf XML?
 3. Was bedeutet es, dass XML eine Metasprache ist?
 4. Welche Funktion haben Schemata?
@@ -346,15 +346,15 @@ In welchen Verhältnissen stehen die Elemente zueinander?
 | **Speichern**        | ScanTent und Transkribus, Turtle |
 | **Auswerten**        | Google n-Gram Viewer, Voyant, Netzwerkanalyse mit Gephi |
 | **Beschreiben**      | GIS und digitale Karten, Textvisualisierung mit Storymaps, TEI Publisher |
-| **Archivieren**      | Omeka S, Git Hub |
-| **Teilen**           | Git Hub, Podcasts |
+| **Archivieren**      | Omeka S, GitHub |
+| **Teilen**           | GitHub, Podcasts |
 | **Nachnutzen**       | Podcasts |
 
 ## Planen 
 
 ![Planung](Images/kelly-sikkema-jr61kHaWKek-unsplash.jpg "Kelly Sikkema auf Unsplash")
 
-[Checkliste Planung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Planung_2023.pdf) der TU-Berlin 
+[Checkliste Planung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Planung_2023.pdf) der TU Berlin 
 
 > - Welche Fragen werden gestellt? 
 > - Welche Stimmen sollen berücksichtigt/sichtbar gemacht werden?
@@ -364,13 +364,13 @@ In welchen Verhältnissen stehen die Elemente zueinander?
 
 **Software für das Anlegen von digitalen Zettelkästen bzw. die Organisation von Notizen:**
 
-* [Obisidian](https://obsidian.md/)
-* [Zettlr](https://www.zettlr.com/)
+- [Obsidian](https://obsidian.md/)
+- [Zettlr](https://www.zettlr.com/)
 - [Conceptboard](https://conceptboard.com/de/)
 
 ## Sammeln 
 
- ![Sammeln Symbolbild](Images/nathalia-segato-V9qc-JVKIBo-unsplash.jpg "Nathalia Segato auf Unsplah") [Hier](https://github.com/DH-Lehre/Literatur/blob/main/literaturliste.md) finden Sie eine kleine Zusammenstellung einer Auswahl bisher in diesem Projekt verwendeter Literatur. :-)
+ ![Sammeln Symbolbild](Images/nathalia-segato-V9qc-JVKIBo-unsplash.jpg "Nathalia Segato auf Unsplash") [Hier](https://github.com/DH-Lehre/Literatur/blob/main/literaturliste.md) finden Sie eine kleine Zusammenstellung einer Auswahl bisher in diesem Projekt verwendeter Literatur. :-)
 
 > - Verantwortungsvolle Auswahl der Datenbanken und Archivalien: Welche Unsichtbarkeiten werden eventuell reproduziert und wie lässt sich das verhindern?
 > - Breites und offenes Blickfeld
@@ -381,9 +381,9 @@ In welchen Verhältnissen stehen die Elemente zueinander?
 - [Die Deutsche Digitale Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/)  
 - [Das Archivportal-D](https://www.archivportal-d.de/)
 - [Das Zentrale Verzeichnis Digitalisierter Drucke (zvdd)](https://www.zvdd.de/startseite/)
-- [Der Worldcat](https://search.worldcat.org/de)
+- [Der WorldCat](https://search.worldcat.org/de)
 - [Hathi Trust Digital Library](https://www.hathitrust.org/)
-- [TextGrid repository](https://textgridrep.de/)
+- [TextGrid Repository](https://textgridrep.de/)
 - [Generische Suche/DARIAH-DE](https://de.dariah.eu/generische-suche)
 - [Bielefeld Academic Search Engine (BASE)](https://www.base-search.net/)
 - [Deutsches Textarchiv (DTA)](https://www.deutschestextarchiv.de/)
@@ -405,16 +405,15 @@ In welchen Verhältnissen stehen die Elemente zueinander?
 
 **Speziell für die Forschung zu Philosophinnen im Exil:**
 
-- [Leo Beck Institut](https://www.lbi.org/de/about/)
+- [Leo Baeck Institut](https://www.lbi.org/de/about/)
 - [Das Jüdische Hamburg](https://www.dasjuedischehamburg.de/inhalt/das-juedische-hamburg)
 - [Center for Jewish History](https://www.cjh.org/)
 - [American Jewish Historical Society](https://ajhs.org/)
-- [Digitales Archiv We Refugees Archive]()
-- [Jewish Women's Archiv](https://jwa.org/)
+- [Jewish Women's Archive](https://jwa.org/)
 
 ### SPARQL-Suchabfragen
 
-![Suche Symbolbild](Images/houcine-ncib-P5L8gICF0CI-unsplash.jpg "Housine Ncib auf Unsplash") SPARQL-Anfragen können verwendet werden, um Informationen über Philosoph:innen oder Wissenschaftler:innen zu suchen, wie z.B. biografische Daten, Werke, Netzwerke und Zusammenhänge zwischen verschiedenen Philosoph:innen/ Wissenschaftler:innen und deren Einfluss. SPARQL ist eine Abfragesprache für RDF-Daten und wird verwendet, um Daten aus RDF-Datenbanken abzufragen, zu manipulieren und zu extrahieren. Eine SPARQL-Anfrage besteht aus verschiedenen Teilen, wie SELECT, WHERE, ORDER BY und FILTER.
+![Suche Symbolbild](Images/houcine-ncib-P5L8gICF0CI-unsplash.jpg "Houcine Ncib auf Unsplash") SPARQL-Anfragen können verwendet werden, um Informationen über Philosoph:innen oder Wissenschaftler:innen zu suchen, wie z.B. biografische Daten, Werke, Netzwerke und Zusammenhänge zwischen verschiedenen Philosoph:innen/Wissenschaftler:innen und deren Einfluss. SPARQL ist eine Abfragesprache für RDF-Daten und wird verwendet, um Daten aus RDF-Datenbanken abzufragen, zu manipulieren und zu extrahieren. Eine SPARQL-Anfrage besteht aus verschiedenen Teilen, wie SELECT, WHERE, ORDER BY und FILTER.
 
 Als Einführung eignet sich: 
 Matthew Lincoln, “Using SPARQL to access Linked Open Data,” Programming Historian 4 (2015), https://doi.org/10.46430/phen0047 
@@ -451,13 +450,13 @@ WHERE {
 ORDER BY ?philosopherLabel
 ```
 
->Ein Vergleich mit einer entschprechenden Suchanfrage nach Philosophen zeigte auch hier die Diskrepanz der Datenlage zwischen Philosophen und Philosophinnen. Siehe: https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2024SoSe_Seminar-Philosophinnen-im-Exil/main/main.md#62.
+>Ein Vergleich mit einer entsprechenden Suchanfrage nach Philosophen zeigte auch hier die Diskrepanz der Datenlage zwischen Philosophen und Philosophinnen. Siehe: https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2024SoSe_Seminar-Philosophinnen-im-Exil/main/main.md#62.
 
 ### Arcinsys
 
-Zur Recherche von historischen Archivalien nutzen wir in unseren Projektseminaren unter anderem [Arcinsys](https://arcinsys.schleswig-holstein.de/arcinsys/start.action): Ein webbasiertes Archivsystem, das entwickelt wurde, um den Zugang zu Archivmaterialien einfacher und effizienter zu gestalten. 
+Zur Recherche von historischen Archivalien nutzen wir in unseren Projektseminaren unter anderem [Arcinsys](https://arcinsys.schleswig-holstein.de/arcinsys/start.action): ein webbasiertes Archivsystem, das entwickelt wurde, um den Zugang zu Archivmaterialien einfacher und effizienter zu gestalten. 
 
-Es ermöglicht Nutzer*innen, historische Dokumente und Bestände in verschiedenen Archiven online zu recherchieren, zu verwalten und Nutzungsanfragen zu stellen. Nach erfolgreicher Nutzungsbeantragung haben Sie die Möglichkeit, bequem von überall aus auf die archivierten Dokumente - sogenannte Archivalien - zuzugreifen. Der Zugriffsstatus kann dabei transparent nachvollzogen werden.
+Es ermöglicht Nutzer:innen, historische Dokumente und Bestände in verschiedenen Archiven online zu recherchieren, zu verwalten und Nutzungsanfragen zu stellen. Nach erfolgreicher Nutzungsbeantragung haben Sie die Möglichkeit, bequem von überall aus auf die archivierten Dokumente - sogenannte Archivalien - zuzugreifen. Der Zugriffsstatus kann dabei transparent nachvollzogen werden.
 
 <iframe src="https://arcinsys.schleswig-holstein.de/arcinsys/start.action" width="800" height="600"></iframe>
 
@@ -465,15 +464,15 @@ Es ermöglicht Nutzer*innen, historische Dokumente und Bestände in verschiedene
 
 ## Speichern 
 
-![Speichern Symbolbild](Images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg "Glenn Carstens Peters auf Unsplash") [Checkliste Speicherung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Speicherung_2023.pdf) der TU-Berlin
+![Speichern Symbolbild](Images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg "Glenn Carstens Peters auf Unsplash") [Checkliste Speicherung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Speicherung_2023.pdf) der TU Berlin
 
 > - Formate, Metadaten, Standards, Datenmodelle als Vermittlungsinstanzen
-> - Entscheidung darüber, was erhalten bleibt, was sichtbar wird, und wie etwas verstanden wird.
+> - Entscheidung darüber, was erhalten bleibt, was sichtbar wird und wie etwas verstanden wird.
 > - Bewusstsein für technische Vorstrukturierung (z.B. durch KI-Modell und Layout der Transkription)
 
 ### Scan Tent und Transkribus
 
-![Transkribus](Images/gemeinsamer_workflow_transkribus.png "https://mittelalter.hypotheses.org/files/2019/10/Abb._3.png (Foto: Pia Eckhart; Lizenz: CC BY-SA 3.0)") Dieser [LiaScript Kurs](https://github.com/DH-Lehre/transkribus-workflow) dient als Einführung in die Nutzung von Transkribus - einer webbasierten Software zur automatischen Texterkennung und Transkription von handschriftlichen und gedruckten Dokumenten. Sie erhalten einen kurzen Überblick über die Nutzungsmöglichkeiten und grundlegenden Funktionen, sodass Sie anschließend mit Ihrem individuellen Workflow starten können.
+![Transkribus](Images/gemeinsamer_workflow_transkribus.png "https://mittelalter.hypotheses.org/files/2019/10/Abb._3.png (Foto: Pia Eckhart; Lizenz: CC BY-SA 3.0)") Dieser [LiaScript-Kurs](https://github.com/DH-Lehre/transkribus-workflow) dient als Einführung in die Nutzung von Transkribus - einer webbasierten Software zur automatischen Texterkennung und Transkription von handschriftlichen und gedruckten Dokumenten. Sie erhalten einen kurzen Überblick über die Nutzungsmöglichkeiten und grundlegenden Funktionen, sodass Sie anschließend mit Ihrem individuellen Workflow starten können.
 
 HINWEIS: Transkribus funktioniert nicht im Safari-Browser. Sollten Sie ein Apple-Endgerät verwenden, wechseln Sie bitte für die Arbeit mit Transkribus zu Chrome oder Firefox.
 
@@ -481,11 +480,11 @@ HINWEIS: Transkribus funktioniert nicht im Safari-Browser. Sollten Sie ein Apple
 
 - [Citavi](https://www.citavi.com/de) (kommerzielles Programm, die Uni Kiel stellt Studierenden eine [kostenfreie Lizenz zur Verfügung](https://www.rz.uni-kiel.de/de/angebote/software/citavi/citavi))
 - [Zotero](https://www.zotero.org/) (gute freie Alternative)
-- [Jabref](https://www.jabref.org/) (besonders gut für die Arbeit in den Naturwissenschaften und der Informatik geeignet)
+- [JabRef](https://www.jabref.org/) (besonders gut für die Arbeit in den Naturwissenschaften und der Informatik geeignet)
 
 ### LOD selbst verfassen
 
-Turtle (Terse RDF Triple Language) ist eine Schreibweise zur Darstellung von RDF-Daten (Resource Description Framework). Es wird genutzt, um semantische Daten im Linked Data- und Semantic Web-Kontext darzustellen.
+Turtle (Terse RDF Triple Language) ist eine Schreibweise zur Darstellung von RDF-Daten (Resource Description Framework). Sie wird genutzt, um semantische Daten im Linked-Data- und Semantic-Web-Kontext darzustellen.
 
 >In dem Seminar zu Philosophinnen im Exil aus dem SoSe 24 nutzten die Studierenden Turtle, um LOD selbst zu verfassen: https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2024SoSe_Seminar-Philosophinnen-im-Exil/main/main.md#78
 
@@ -498,11 +497,11 @@ Archivalien werden:
 -	berechnet (z.B. Google n-Gram Viewer)
 -	relationalisiert (z.B. Gephi)
 
-> Daten sind immer nur vor bestimmten Hintergrund verstehbar! Wichtig sind daher:
+> Daten sind immer nur vor einem bestimmten Hintergrund verstehbar! Wichtig sind daher:
 >
 > -	Methodische Selbstreflexion 
 > -	Skepsis gegenüber scheinbarer Objektivität 
-> -	Kritischer Umgang mit eignen Begriffen
+> -	Kritischer Umgang mit eigenen Begriffen
 
 ### Google n-Gram Viewer
 
@@ -550,9 +549,9 @@ Aus dieser Lerneinheit stammen die folgenden beiden Videos:
 
 ## Beschreiben
 
-[Checkliste Beschreibung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Beschreibung_2023.pdf) der TU-Berlin
+[Checkliste Beschreibung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Beschreibung_2023.pdf) der TU Berlin
 
-![Gesicht Licht Schatten](/Images/maria-budanova-pristavskaya-LfWPADfK2rA-unsplash.jpg "Foto von Maria Budanova") In diesem Schritt entscheidet das eigene Interpretieren und Sprechen darüber, was ins Licht und was in den Schatten gestellt wird und welche Narrative hierdurch entstehen. 
+![Gesicht Licht Schatten](/Images/maria-budanova-pristavskaya-LfWPADfK2rA-unsplash.jpg "Foto von Maria Budanova auf Unsplash") In diesem Schritt entscheidet das eigene Interpretieren und Sprechen darüber, was ins Licht und was in den Schatten gestellt wird und welche Narrative hierdurch entstehen. 
 
 Erforderlich sind daher:
 
@@ -584,7 +583,7 @@ Seminarergebnis zu wesentlichen Funktionen von Karten in den DH (Quelle: Drucker
 
 #### Textvisualisierung mit Storymaps 
 
->**Beispiele aus philosophischem Projektseminar (SoSe 24):**
+>**Beispiele aus dem philosophischen Projektseminar (SoSe 24):**
 >
 >Story Map Hannah Arendt: https://arcg.is/9KOLj0
 >
@@ -611,7 +610,7 @@ Die Software bietet insbesondere folgende Funktionen:
 
 ## Archivieren 
 
-![Tür](/Images/julian-rosner-VPiW0X0xZVI-unsplash.jpg "Foto von Julian Rosner auf Unsplash") [Checkliste Archivierung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Archivierung_2023.pdf) der TU-Berlin 
+![Tür](/Images/julian-rosner-VPiW0X0xZVI-unsplash.jpg "Foto von Julian Rosner auf Unsplash") [Checkliste Archivierung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Archivierung_2023.pdf) der TU Berlin 
 
 > Zu beachtende Kriterien:
 >
@@ -623,7 +622,7 @@ Die Software bietet insbesondere folgende Funktionen:
 
 ### Omeka S
 
-Als DH-Tool zur Archivierung und Präsentation der Forschungsergebnisse wird in den geschichtlichen Seminaren zu Frauengeschichten Omeka-S verwendet: Eine webbasierte Open-Source-Software, die speziell für die Erstellung und Verwaltung digitaler Sammlungen und Ausstellungen entwickelt wurde. Ein Schwerpunkt liegt hierbei auf der Verwaltung von Metadaten.
+Als DH-Tool zur Archivierung und Präsentation der Forschungsergebnisse wird in den geschichtlichen Seminaren zu Frauengeschichten Omeka S verwendet: eine webbasierte Open-Source-Software, die speziell für die Erstellung und Verwaltung digitaler Sammlungen und Ausstellungen entwickelt wurde. Ein Schwerpunkt liegt hierbei auf der Verwaltung von Metadaten.
 
 Mit Omeka S können Sie...
 
@@ -632,7 +631,7 @@ Mit Omeka S können Sie...
 - (mehrere) Webseiten innerhalb einer Installation gestalten (und diese, wenn gewünscht, miteinander verknüpfen),
 - individuelle Metadaten-Schemata nutzen.
 
->Dieser [LiaScript Kurs](https://github.com/DH-Lehre/Omeka-S-Workflow) dient als Einführung in die Arbeit mit OmekaS.
+>Dieser [LiaScript-Kurs](https://github.com/DH-Lehre/Omeka-S-Workflow) dient als Einführung in die Arbeit mit Omeka S.
 
 <iframe src="https://projekt03.omeka-s.ub.uni-kiel.de/" width="800" height="600"></iframe>
 
@@ -642,7 +641,7 @@ Mit Omeka S können Sie...
 
 ## Teilen 
 
-![Teilen Symbolbild](/Images/yuliia-sereda--qSx9BBa_t8-unsplash.jpg "Foto von Yuliia Sereda auf Unsplash") [Checkliste Veröffentlichung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Veroeffentlichung_2023.pdf) der TU-Berlin 
+![Teilen Symbolbild](/Images/yuliia-sereda--qSx9BBa_t8-unsplash.jpg "Foto von Yuliia Sereda auf Unsplash") [Checkliste Veröffentlichung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Veroeffentlichung_2023.pdf) der TU Berlin 
 
 Forschungsdaten werden:
 
@@ -659,15 +658,15 @@ Forschungsdaten werden:
 > - Vergewissern, dass mit der Veröffentlichung keine Rechte Dritter verletzt werden
 > - Veröffentlichung möglichst unter CC-Lizenz 
 
-### Git und Git Hub
+### Git und GitHub
 
  
 
-![Menschen](/Images/jan-antonin-kolar-UfIbNZrHOmk-unsplash.jpg "Foto von Jan Antonin auf Unsplash") Unser Projektmaterial samt Forschungsergebnissen und Dokumentation der angewandten Forschungsmethoden teilen wir in unserem Projektrepository [DH-Lehre](https://github.com/DH-Lehre) auf GitHub.
+![Menschen](/Images/jan-antonin-kolar-UfIbNZrHOmk-unsplash.jpg "Foto von Jan Antonín Kolář auf Unsplash") Unser Projektmaterial samt Forschungsergebnissen und Dokumentation der angewandten Forschungsmethoden teilen wir in unserem Projektrepository [DH-Lehre](https://github.com/DH-Lehre) auf GitHub.
 In den DH ist Zusammenarbeit zwischen verschiedenen Disziplinen und Institutionen häufig erforderlich. Die kombinierte Nutzung von **Git** und **GitHub** bietet eine Möglichkeit, um Forschungsergebnisse zu **teilen**, zu **versionieren** und **gemeinsam zu bearbeiten**. Auf diese Weise lassen sich die Zusammenarbeit, die Nachvollziehbarkeit von Änderungen und die Archivierung von Forschungsdaten erleichtern.
 
 ![Zwischen Menschen](/Images/landsmann-m88lF9es5Dw-unsplash.jpg "Foto von Landsmann auf Unsplash") Mit [Git](https://git-scm.com/) lassen sich verschiedene Versionen eines Codes verfolgen, Änderungen nachvollziehen und dokumentieren. Auch Textdaten, wie z. B. transkribierte Texte, können über Git versioniert werden. So bleibt immer nachvollziehbar, welche Änderungen im Text gemacht wurden und wann. 
-Die webbasierte Plattform [GitHub](https://github.com/) ermöglicht es dann durch Uploads der Versionen mehreren Forscher:innen, gleichzeitig an einem Projekt zu arbeiten. Schlägt eine Person über einen "Pull request" Änderungen vor, können andere Forscher:innen diese Änderungen prüfen und diskutieren, bevor sie in das Hauptprojekt integriert werden. Dies hilft dabei, die Qualität der Arbeit zu sichern und sicherzustellen, dass alle Beteiligten auf dem neuesten Stand bleiben.
+Die webbasierte Plattform [GitHub](https://github.com/) ermöglicht es dann durch Uploads der Versionen mehreren Forscher:innen, gleichzeitig an einem Projekt zu arbeiten. Schlägt eine Person über einen "Pull Request" Änderungen vor, können andere Forscher:innen diese Änderungen prüfen und diskutieren, bevor sie in das Hauptprojekt integriert werden. Dies hilft dabei, die Qualität der Arbeit zu sichern und sicherzustellen, dass alle Beteiligten auf dem neuesten Stand bleiben.
 Da GitHub die Möglichkeit zur Erstellung **öffentlich zugänglicher Repositories** bietet, können Forscher:innen ihre Methodologien und Daten mit der breiten Öffentlichkeit teilen. So wird es für andere Forschende möglich, die Arbeit zu überprüfen und die Ergebnisse zu replizieren.
 Über die **README-Dateien** und Wikis können zudem Methoden, Ziele und Ergebnisse dokumentiert werden, was für eine strukturierte und benutzerfreundliche Präsentation von Forschungsergebnissen sorgt.
 
@@ -833,7 +832,7 @@ git checkout -- datei.txt
 
 ## Nachnutzen 
 
-![Nachnutzung Symbolbild](Images/kyle-glenn--f8ssjFhD1k-unsplash.jpg "Kyle Glenn auf Unsplash") [Checkliste Nachnutzung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Nachnutzug_2023.pdf) der TU-Berlin 
+![Nachnutzung Symbolbild](Images/kyle-glenn--f8ssjFhD1k-unsplash.jpg "Kyle Glenn auf Unsplash") [Checkliste Nachnutzung](https://www.static.tu.berlin/fileadmin/www/40000027/Dokumente/Checkliste_Nachnutzug_2023.pdf) der TU Berlin 
 
 Daten können:
 
@@ -858,7 +857,7 @@ werden.
 
 ### LiaScript
 
-![Tanz](/Images/maks_d-ycVW5wc-sMo-unsplash.jpg "Foto von Maks auf Unsplash") Zur Bereitstellung von interaktiven Lehrinhalten und der kollaborativen Darstellung der Forschungsergebnisse nutzen wir für unser Lehrprojekt LiaScript: Eine Markdown-basierte Skriptsprache, die speziell für die Erstellung interaktiver Online-Kurse und Dokumentationen entwickelt wurde. [LiaScript](https://liascript.github.io/) ermöglicht das einfache Erstellen von multimedialen, interaktiven und kollaborativen Lerninhalten – direkt in einem einfachen Textformat.
+![Tanz](/Images/maks_d-ycVW5wc-sMo-unsplash.jpg "Foto von Maks auf Unsplash") Zur Bereitstellung von interaktiven Lehrinhalten und der kollaborativen Darstellung der Forschungsergebnisse nutzen wir für unser Lehrprojekt LiaScript: eine Markdown-basierte Skriptsprache, die speziell für die Erstellung interaktiver Online-Kurse und Dokumentationen entwickelt wurde. [LiaScript](https://liascript.github.io/) ermöglicht das einfache Erstellen von multimedialen, interaktiven und kollaborativen Lerninhalten – direkt in einem einfachen Textformat.
 
 <iframe src="https://liascript.github.io/" width="800" height="600"></iframe>
 
@@ -878,7 +877,7 @@ Auch in diesem Lehrprojekt sind in diesem Sinne Podcasts entstanden:
 
 # Projektseminare
 
-![Interdiszipinäres Arbeiten](Images/marvin-meyer-SYTO3xs06fU-unsplash.jpg "Marvin Meyer auf Unsplash")
+![Interdisziplinäres Arbeiten](Images/marvin-meyer-SYTO3xs06fU-unsplash.jpg "Marvin Meyer auf Unsplash")
 
 - [Exil und Haltung – Digital Humanities und Philosophie (SoSe 26)](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2026SoSe_Seminar-Exil-und-Haltung/main/main.md#1)
 - [Philosophinnen im Exil (III) (SoSe 25)](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/2025SoSe_Seminar-Philosophinnen-im-Exil-III/main/main.md#1)
@@ -890,7 +889,7 @@ Auch in diesem Lehrprojekt sind in diesem Sinne Podcasts entstanden:
 
 ----
 
-[Hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/Sammlung-Philosophinnen-im-Exil/main/Sammlung_Philosophinnen_im_Exil.md#1) finden Sie eine Sammlung der Rechercheergebnisse zu bisher 32 Philosophinnen, die ein Teil ihres Lebens und philosophischen Schaffenszeit im Exil verbrachten/verbringen mussten.
+[Hier](https://liascript.github.io/course/?https://raw.githubusercontent.com/DH-Lehre/Sammlung-Philosophinnen-im-Exil/main/Sammlung_Philosophinnen_im_Exil.md#1) finden Sie eine Sammlung der Rechercheergebnisse zu bisher 32 Philosophinnen, die einen Teil ihres Lebens und ihrer philosophischen Schaffenszeit im Exil verbrachten/verbringen mussten.
 
 >Hinweis: Rechercheergebnisse aus Projektseminaren und von Agnė Itogulovaitė (Philosophisches Seminar, CAU).
 
